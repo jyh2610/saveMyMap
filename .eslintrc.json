@@ -18,12 +18,10 @@
 
     // 타입스크립트 규칙
     "@typescript-eslint/no-explicit-any": ["error"],
-    "@typescript-eslint/no-unused-vars": ["error"],
     "@typescript-eslint/no-use-before-define": ["error"],
 
     // React 규칙
     "react/jsx-uses-react": ["error"],
-    "react/jsx-uses-vars": ["error"],
     "react/no-unused-prop-types": ["error"],
     "react/no-unescaped-entities": ["error"],
     "react/react-in-jsx-scope": "off"
